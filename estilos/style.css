@@ -125,7 +125,7 @@ main a{
     font-weight: bold;
     color: var(--cor4);
     background-color: var(--cor1);
-    padding: 4px 6px;
+    padding: 2px 3px;
     text-decoration: none;
     border-radius: 5px;
 }
